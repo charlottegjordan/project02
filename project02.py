@@ -36,6 +36,7 @@ for term in sorted(terms):
 
 import matplotlib.pyplot as plt
 plt.bar(sorted_terms, sorted_counts)
+plt.xticks(rotation = 25)
 plt.xlabel("Year")
 plt.ylabel("Number of Economics Nobel Prize Recipients")
 plt.title("Number of Recipents of the Nobel Prize in Economics (2014-2024)")
