@@ -1,4 +1,4 @@
-"""
+#GRAPH 1
 import json
 with open('nobel_prizes.json', 'r') as nob:
     data = json.load(nob)
@@ -40,12 +40,10 @@ plt.xlabel("Year")
 plt.ylabel("Number of Economics Nobel Prize Recipients")
 plt.title("Number of Recipents of the Nobel Prize in Economics (2014-2024)")
 plt.show()
-"""
 
-import pprint
+
+#GRAPH 2
 import csv
-import numpy as np
-
 
 x_values = []
 y_values1 = []
