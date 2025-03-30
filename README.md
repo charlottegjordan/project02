@@ -10,6 +10,6 @@ I chose to plot recipients in the field of Economics specifically because it had
 
 
 ## Graph 2: Number of Vehicles Registered in Montana, 1920 - 1929
-![vehicles count graph](vehicles_count_graph.png)
+![vehicles count graph](vehicle_count_graph.png)
 
 I based this graph off of data from this [dataset](https://catalog.data.gov/dataset/motor-vehicle-registrations-dashboard-data). The original dataset counts the amount of automobiles (cars), trucks, buses, and motorcycles in each US state from 1900-2024. With such an abundance of data, I limited the inputs by focusing on the vehicles registered in Montana specifically in the decade 1920-1929. I chose this time period because it displayed the historical increase in access to personal vehicles that took place in this period following WWI. 
